@@ -1,6 +1,6 @@
 # Lightcourt
 
-**Shared, access-controlled camera views for interactive live streaming.**
+**Open infrastructure to manage, split and securely share live camera streams.**
 
 Lightcourt is a planned open-source, self-hosted service that keeps cameras on a private network, turns each camera into named views (crops, rotations, splits) and delivers only authorised views to other applications, as refreshing JPEG, MJPEG or low-latency WebRTC, with explicit image-freshness status.
 
